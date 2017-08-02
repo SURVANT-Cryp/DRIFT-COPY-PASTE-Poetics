@@ -10,5 +10,5 @@ a text-based dérive.<br>
 a critique of the hegemony of meaning.<br>
 an oracle.<br>
 
-This project is dedicated to Jon Cates<br>
+<i>This project is dedicated to Jon Cates</i>
 
