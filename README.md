@@ -6,9 +6,9 @@ c.	Construct tercets out of the textual rubble<br>
 
 Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in how aleatory operations—like the cut-up technique—can spur the development of new ideas about mediated culture and communication.
 
-a text-based dérive.<br>
+<i>a text-based dérive.<br>
 a critique of the hegemony of meaning.<br>
-an oracle.<br>
+an oracle.</i>
+<br>
 
-<i>This project is dedicated to Jon Cates</i>
 
