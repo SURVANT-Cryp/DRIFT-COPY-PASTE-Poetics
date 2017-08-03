@@ -10,5 +10,5 @@ Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in
 a critique of the hegemony of meaning.<br>
 an oracle.</i>
 <br>
-
+I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
