@@ -12,14 +12,14 @@ an oracle.<br></i>
 <br>
 <b>Notes:</b><br>
 As interpreted by Gregory Ulmer (in his Applied Grammatology), Jacques Derrida’s philosophical project was not merely to deconstruct language, but to initiate a new way of writing. This new way of writing involves slippage—one homonym into another. Derrida’s new “grammatological” way of writing is less concerned with historical/etymological connections between words and more concerned with future/generative connections between words. Derrida is not concerned (merely) with what language has meant, but what language may come to mean. Derrida’s project is not about arbitrary, willy-nilly slippage; but it instead involves a very rigorous kind of play and failure. At one point, Ulmer (charmingly) calls Derrida, “so rigorously irresponsible.” This kind of grammatological remixing of language has no end. It never settles on a fixed state where language ceases to evolve and each word finally comes to mean one and only one thing. Instead, meaning is always emerging and subsiding, and stasis is perpetually deferred and postponed. Ulmer’s Derrida proposes a writing not of increasingly precise taxonomies and increasingly accurate canonical texts, but a writing of perpetually emergent creation and invention—a remix writing.
-– Curt Cloninger
-<br>
-http://www.remixthebook.com/remix-as-if-by-curt-cloninger-2
-<br>
-Irish art critic Declan Long states that his research "seeks to consider how attention to marginal, neglected, or 'failed' sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present 'reality.'"
-<br>
-https://twitter.com/declanlong
-<br>
+– Curt Cloninger<br>
+
+http://www.remixthebook.com/remix-as-if-by-curt-cloninger-2<br>
+
+Irish art critic Declan Long states that his research "seeks to consider how attention to marginal, neglected, or 'failed' sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present 'reality.'"<br>
+
+https://twitter.com/declanlong<br>
+
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
