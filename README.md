@@ -8,8 +8,7 @@ Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in
 
 <i>a text-based dérive.<br>
 a critique of the hegemony of meaning.<br>
-an oracle.</i>
-<br>
+an oracle.</i><br>
 <br>
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
