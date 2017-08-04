@@ -1,4 +1,4 @@
-<b>DRIFT/COPY/PASTE poetics 1</b>
+<b>DRIFT/COPY/PASTE poetics</b>
 
 a.	Randomly select text fragments from social media feeds<br>
 b.	Hack on gathered words and phrases<br>
