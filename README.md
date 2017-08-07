@@ -20,7 +20,7 @@ http://www.remixthebook.com/remix-as-if-by-curt-cloninger-2<br>
 
 Irish art critic Declan Long states that his research "seeks to consider how attention to marginal, neglected, or 'failed' sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present 'reality.'"<br>
 https://twitter.com/declanlong<br>
-<br>
+
 A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space’ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.<br>
 http://sonicfield.org/2014/03/errormancy-glitch-as-divination
 <br>
