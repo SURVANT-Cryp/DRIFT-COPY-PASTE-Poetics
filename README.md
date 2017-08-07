@@ -23,7 +23,7 @@ Irish art critic Declan Long states that his research "seeks to consider how att
 
 https://twitter.com/declanlong<br>
 <br>
-A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space’ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.
+A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space’ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.<br>
 <br>
 http://sonicfield.org/2014/03/errormancy-glitch-as-divination
 <br>
