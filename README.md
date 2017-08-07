@@ -25,7 +25,8 @@ https://twitter.com/declanlong<br>
 <br>
 A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space’ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.
 <br>
-http://sonicfield.org/2014/03/errormancy-glitch-as-divination/
+http://sonicfield.org/2014/03/errormancy-glitch-as-divination
+<br>
 
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
