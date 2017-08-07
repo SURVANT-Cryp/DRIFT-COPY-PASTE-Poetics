@@ -13,7 +13,7 @@ an oracle.<br></i>
 <b>Notes:</b><br>
 When you cut into the present the future leaks out.<br>
 – William S. Burroughs<br>
-<br>
+
 As interpreted by Gregory Ulmer (in his Applied Grammatology), Jacques Derrida’s philosophical project was not merely to deconstruct language, but to initiate a new way of writing. This new way of writing involves slippage—one homonym into another. Derrida’s new “grammatological” way of writing is less concerned with historical/etymological connections between words and more concerned with future/generative connections between words. Derrida is not concerned (merely) with what language has meant, but what language may come to mean. Derrida’s project is not about arbitrary, willy-nilly slippage; but it instead involves a very rigorous kind of play and failure. At one point, Ulmer (charmingly) calls Derrida, “so rigorously irresponsible.” This kind of grammatological remixing of language has no end. It never settles on a fixed state where language ceases to evolve and each word finally comes to mean one and only one thing. Instead, meaning is always emerging and subsiding, and stasis is perpetually deferred and postponed. Ulmer’s Derrida proposes a writing not of increasingly precise taxonomies and increasingly accurate canonical texts, but a writing of perpetually emergent creation and invention—a remix writing.<br>
 – Curt Cloninger<br>
 
