@@ -29,6 +29,7 @@ http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
 – John Cage<br>
 
+This project is dedicated to be my friend Jon Cates (http://systemsapproach.net)<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
