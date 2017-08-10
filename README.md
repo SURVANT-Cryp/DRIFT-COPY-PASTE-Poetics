@@ -1,6 +1,6 @@
 <b>DRIFT/COPY/PASTE poetics</b>
 
-a.	Randomly select text fragments from social media feeds<br>
+a.	Select text fragments from social media feeds<br>
 b.	Hack on gathered words and phrases<br>
 c.	Construct tercets out of the textual rubble<br>
 
