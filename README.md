@@ -8,7 +8,6 @@ Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in
 
 <i>a text-based dérive.<br>
 a glitch art process.<br>
-an alternative approach to meaning-making.<br>
 an oracle.<br></i>
 <br>
 <b>Notes:</b><br>
