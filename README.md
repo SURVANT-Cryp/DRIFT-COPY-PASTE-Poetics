@@ -50,7 +50,7 @@ Levy, Steven. Hackers: Heroes of the Computer Revolution. New York: Manijaime/Do
 
 https://www.youtube.com/watch?v=L2qsbmd9Zcs
 
-This project is dedicated to be my friend Jon Cates (http://systemsapproach.net)<br>
+This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
