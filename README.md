@@ -1,7 +1,5 @@
 <b>DRIFT/COPY/PASTE poetics</b>
 
-<img src="https://static.tumblr.com/7ggoisn/fB7ozxogt/caqxffewuaa_3l_.jpg">
-
 a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
 c.  Construct tercets out of the textual rubble<br>
