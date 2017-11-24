@@ -1,6 +1,6 @@
 <b>DRIFT/COPY/PASTE poetics</b>
 
-![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
+<img src="https://static.tumblr.com/7ggoisn/fB7ozxogt/caqxffewuaa_3l_.jpg"
 
 a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
