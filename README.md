@@ -1,6 +1,6 @@
 <b>DRIFT/COPY/PASTE poetics</b>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
+![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
 
 a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
