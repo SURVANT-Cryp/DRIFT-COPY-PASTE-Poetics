@@ -21,6 +21,8 @@ http://www.ubu.com/sound/burroughs_breakthrough.html<br>
 – Curt Cloninger<br>
 http://www.remixthebook.com/remix-as-if-by-curt-cloninger-2<br>
 
+David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
+
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
 https://twitter.com/declanlong<br>
 
@@ -49,8 +51,6 @@ The Hacker Ethic<br>
 6. Computers can change your life for the better. (Levy, 26-36)<br>
 
 Levy, Steven. Hackers: Heroes of the Computer Revolution. New York: Manijaime/Doubleday, 1984.<br>
-
-David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
