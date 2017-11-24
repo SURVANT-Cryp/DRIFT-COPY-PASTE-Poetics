@@ -11,7 +11,7 @@ a glitch art process.<br>
 an oracle.<br></i>
 <br>
 This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
-<br>
+
 <b>Notes:</b><br>
 “When you cut into the present the future leaks out.”<br>
 – William S. Burroughs<br>
