@@ -10,6 +10,7 @@ Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in
 a glitch art process.<br>
 an oracle.<br></i>
 <br>
+This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
 <b>Notes:</b><br>
 “When you cut into the present the future leaks out.”<br>
 – William S. Burroughs<br>
@@ -48,9 +49,7 @@ The Hacker Ethic<br>
 
 Levy, Steven. Hackers: Heroes of the Computer Revolution. New York: Manijaime/Doubleday, 1984.<br>
 
-https://www.youtube.com/watch?v=L2qsbmd9Zcs
-
-This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
+David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
