@@ -14,7 +14,7 @@ an oracle.<br></i>
 
 Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY. 
 
-This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
+This project is dedicated to my friend Jon Cates (http://systemsapproach.net)
 
 <b>Notes:</b><br>
 “When you cut into the present the future leaks out.”<br>
