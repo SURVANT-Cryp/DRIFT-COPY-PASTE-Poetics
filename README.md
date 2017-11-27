@@ -25,6 +25,10 @@ http://www.ubu.com/sound/burroughs_breakthrough.html<br>
 – Curt Cloninger<br>
 http://www.remixthebook.com/remix-as-if-by-curt-cloninger-2<br>
 
+"S+7:
+Replace every noun in a text with the noun seven entries after it in a dictionary. For example, “Call me Ishmael. Some years ago…” (from Moby-Dick) becomes “Call me islander. Some yeggs ago…”. Results will vary depending upon the dictionary used. This technique can also be performed on other lexical classes, such as verbs."<br>
+http://www.remixthebook.com/the-course/potentialism<br>
+
 David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
