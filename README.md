@@ -60,6 +60,5 @@ The Hacker Ethic<br>
 
 Levy, Steven. Hackers: Heroes of the Computer Revolution. New York: Manijaime/Doubleday, 1984.<br>
 <br>
-<br>
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
