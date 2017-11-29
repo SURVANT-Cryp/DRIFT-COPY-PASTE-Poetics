@@ -12,7 +12,7 @@ Similar to the Dadaists, William S. Burroughs, and John Cage, I am interested in
 a glitch art process.<br>
 an oracle.<br></i>
 
-Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY. 
+Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY.<br>
 ISBN: 978-1-62462-164-2
 
 This project is dedicated to my friend Jon Cates (http://systemsapproach.net)
