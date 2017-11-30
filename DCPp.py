@@ -3,7 +3,7 @@
 
 from random import randint
 
-"DRIFT/COPY/PASTE POETIX"
+#DRIFT/COPY/PASTE POETIX
 
 wordList1 = ['Mane brought field recordings of poor southern Work/Death,',
              'tele_trap(trap) bloated and almost immobile n hand to hand combat',
@@ -175,7 +175,7 @@ wordList2 = ['qS!QA et tendre',
              '8irn ly festivities wearing fake burlap fet',
              'a hut-keeper during the night',
              'Wend quickly']
-wordList3 = ['*']
+wordList3 = ['Search:']
 wordList4 = ['always inspired Cause of death',
              'your Essential',
              'their exhibitions of Pioneering',
@@ -350,7 +350,7 @@ wordIndex3=randint(0, len(wordList3)-1)
 wordIndex4=randint(0, len(wordList4)-1)
 wordIndex5=randint(0, len(wordList5)-1)
 stanza = wordList1[wordIndex1] + "\n" + wordList2[wordIndex2] + "\n"
-stanza = stanza + wordList3[wordIndex3] + " " + wordList4[wordIndex4]  + ",\n"
+stanza = stanza + wordList3[wordIndex3] + " " + wordList4[wordIndex4]  + "\n"
 stanza = stanza + wordList5[wordIndex5] + "\n"
 
 print "\nDRIFT/COPY/PASTE POETIX:\n\n" + (stanza)
