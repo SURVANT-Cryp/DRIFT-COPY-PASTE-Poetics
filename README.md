@@ -33,11 +33,11 @@ http://www.remixthebook.com/the-course/potentialism<br>
 David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
 “The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”<br>
-— Kenneth Goldsmith<br>
+– Kenneth Goldsmith<br>
 http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html
 
 “Don’t for heaven's sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
-— Ludwig Wittgenstein<br>
+– Ludwig Wittgenstein<br>
 
 “That rupture, now nearly two decades old, is no longer interesting to younger poets, it seems, most of whom never knew life without the Web. Instead, it’s the mining, massaging, and reworking of found online texts into something personal that appears to be fuelling some of the more adventurous poetry being written today.”<br>
 https://www.newyorker.com/books/page-turner/post-internet-poetry-comes-of-age<br>
