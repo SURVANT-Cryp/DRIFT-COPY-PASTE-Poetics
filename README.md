@@ -32,7 +32,7 @@ http://www.remixthebook.com/the-course/potentialism<br>
 
 David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
-“The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”
+“The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”<br>
 — Kenneth Goldsmith<br>
 http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html
 
