@@ -1,4 +1,4 @@
-<b>DRIFT/COPY/PASTE poetics</b>
+<b>DRIFT/COPY/PASTE Poetics</b>
 
 <img src="http://static.tumblr.com/7ggoisn/ufCozxppy/img_0768_copy.jpg">
 
