@@ -39,6 +39,9 @@ http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html
 “Don’t for heaven's sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
 — Ludwig Wittgenstein<br>
 
+“That rupture, now nearly two decades old, is no longer interesting to younger poets, it seems, most of whom never knew life without the Web. Instead, it’s the mining, massaging, and reworking of found online texts into something personal that appears to be fuelling some of the more adventurous poetry being written today.”<br>
+https://www.newyorker.com/books/page-turner/post-internet-poetry-comes-of-age<br>
+
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
 https://twitter.com/declanlong<br>
 
