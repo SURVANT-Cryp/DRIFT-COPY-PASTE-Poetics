@@ -32,6 +32,10 @@ http://www.remixthebook.com/the-course/potentialism<br>
 
 David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
+“The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”
+— Kenneth Goldsmith<br>
+http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html
+
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
 https://twitter.com/declanlong<br>
 
