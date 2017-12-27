@@ -80,7 +80,7 @@ The Hacker Ethic<br>
 5. You can create art and beauty on a computer.<br>
 6. Computers can change your life for the better. (Levy, 26-36)<br>
 
-Levy, Steven. Hackers: Heroes of the Computer Revolution (New York: Manijaime/Doubleday, 1984).<br>
+Levy, Steven. Hackers: Heroes of the Computer Revolution (New York: Manijaime/Doubleday, 1984), 5-36.<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
