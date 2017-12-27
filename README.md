@@ -38,6 +38,8 @@ http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
 
 “According to the editors of Flarf: An Anthology of Flarf (Aerial/Edge Books), this sort of poetry is more like punk rock or Dada, but distinct from these previous movements in that the content crucial to its construction is sourced from the Internet.”<br>
 
+“Flarf’s poets heed the call placed by Bruce Andrews in his essay “Praxis: A Political Economy of Noise and Information,” which says that poets should not seek refuge in past, traditional models of sanctuary from the proverbial barbarian onslaught; they should instead vivify and inhabit the mess, and turn it into poetry.”<br>
+
 “Each author is recombining “found” text, renaming, editing, and presenting it for new amusement or indignation. But appropriation is merely the point of departure for many Flarf poets. It’s not at all like Conceptual poetry—in many ways, it’s just the opposite—because it’s labor intensive and bespoke. It seems these authors enjoy a different degree of estrangement from their original sources. Author and reader share culpability, but they also bear witness to a glimmer of a new dramatic realism that is not fatalistic, but rather weirdly happy and upbeat.”<br>
 https://bombmagazine.org/articles/building-blocks-of-noise<br>
 
