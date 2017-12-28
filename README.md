@@ -22,7 +22,7 @@ This project is dedicated to my friend Jon Cates (http://systemsapproach.net)
 – William S. Burroughs<br>
 http://www.ubu.com/sound/burroughs_breakthrough.html<br>
 
-“‘Here we have a man whose job it is to gather the day’s refuse in the capital. Everything that the big city has thrown away, everything it has lost, everything it has scorned, everything it has crushed underfoot he catalogues and collects. He collates the annals of intemperance, the capharnaum of waste. He sorts things out and selects judiciously: he collects like a miser like a miser guarding a treasure, refuse which will assume the shape of useful or gratifying objects between the jaws of the goddess of Industry.’ This description is one extended metaphor for the poetic method, as Baudelaire practiced it. Ragpicker and poet: both are concerned with refuse”<br>
+“‘Here we have a man whose job it is to gather the day’s refuse in the capital. Everything that the big city has thrown away, everything it has lost, everything it has scorned, everything it has crushed underfoot he catalogues and collects. He collates the annals of intemperance, the capharnaum of waste. He sorts things out and selects judiciously: he collects like a miser like a miser guarding a treasure, refuse which will assume the shape of useful or gratifying objects between the jaws of the goddess of Industry.’ This description is one extended metaphor for the poetic method, as Baudelaire practiced it. Ragpicker and poet: both are concerned with refuse.”<br>
 
 Walter Benjamin, Edmund Jephcott, Howard Eiland, and Michael W. Jennings. Walter Benjamin: Selected Writings. Vol. 4, 1938-1940 (Cambridge, Mass: Harvard University Press, 2003), 48.<br>
 
