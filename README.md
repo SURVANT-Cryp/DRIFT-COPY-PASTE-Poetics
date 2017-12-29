@@ -54,6 +54,9 @@ https://www.pw.org/content/can_flarf_ever_be_taken_seriously?cmnt_all=1/<br>
 “Don’t for heaven's sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
 – Ludwig Wittgenstein<br>
 
+“Walter Benjamin adopted the concept of the urban observer both as an analytical tool and as a lifestyle. Debord defines the dérive as ‘a mode of experimental behavior linked to the conditions of urban society: a technique of rapid passage through varied ambiances.’ It is an unplanned journey through a landscape, usually urban, in which participants drop their everyday relation and ‘let themselves be drawn by the attractions of the terrain and the encounters they find there’.”<br>
+http://thebinarygraffiticlub.com/derive.html<br>
+
 “That rupture, now nearly two decades old, is no longer interesting to younger poets, it seems, most of whom never knew life without the Web. Instead, it’s the mining, massaging, and reworking of found online texts into something personal that appears to be fuelling some of the more adventurous poetry being written today.”<br>
 https://www.newyorker.com/books/page-turner/post-internet-poetry-comes-of-age<br>
 
