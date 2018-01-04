@@ -36,6 +36,11 @@ http://www.remixthebook.com/the-course/potentialism<br>
 
 David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 
+“long live blogs: long live free literature: long live public domain and creative commons: long live self-publishing: long live torrents: long live free pdf’s: long live pay-what-you-want: long live image-based poetry: long live the internet:<br>
+<br>
+poetry is dead: long live poetry”<br>
+http://internetpoetry.co.uk/doctrine<br>
+
 “The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”<br>
 – Kenneth Goldsmith<br>
 http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
