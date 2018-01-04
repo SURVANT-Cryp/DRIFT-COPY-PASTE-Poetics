@@ -80,7 +80,7 @@ http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 – jonCates ++ jake elliott<br>
 http://gl1tch.us/4RTCR4X0RZ.html<br>
 
-“When you state that ‘Jodi uses a keen understanding of computational circuitry to create software glitches.‘ the trouble is that JODI actually readily admits to having && working w/technologies in intentionally naive ways or in learning technologies as they make projects. They sumtimes enjoy the childlike use of systems or in learning/playing w/systems as their process.”<br>
+“When you state that ‘Jodi uses a keen understanding of computational circuitry to create software glitches.’ the trouble is that JODI actually readily admits to having && working w/technologies in intentionally naive ways or in learning technologies as they make projects. They sumtimes enjoy the childlike use of systems or in learning/playing w/systems as their process.”<br>
 – jonCates<br>
 http://gl1tch.us/RebeccaJackson.html<br>
 
