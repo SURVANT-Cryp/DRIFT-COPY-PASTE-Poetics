@@ -74,6 +74,10 @@ http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
 – John Cage<br>
 
+“This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others' comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
+– jonCates ++ jake elliott<br>
+http://gl1tch.us/4RTCR4X0RZ.html<br>
+
 The origins of computer hacking can be traced back to the late 1950s at Massachusetts Institute of Technology where a group of students—many of which were a part of the Tech Model Railway Club (TMRC)—began experimenting with various computing machines on campus. At this time, most computers took up entire rooms and required a group of engineers and machine operators to maintain them. The hulking IBM 704 was particularly difficult to maintain. As Steven Levy explains in his book, <em>Hackers: Heroes of the Computer Revolution</em>, student access to this computer was extremely limited:<br>
 
 <em>All these people in charge of punching cards, feeding them into readers, and pressing buttons and switches on the machine were what was commonly called a Priesthood, and those privileged enough to submit data to those most holy priests were the official acolytes. It was an almost ritualistic exchange.
