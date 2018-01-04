@@ -52,7 +52,7 @@ http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
 “Each author is recombining “found” text, renaming, editing, and presenting it for new amusement or indignation. But appropriation is merely the point of departure for many Flarf poets. It’s not at all like Conceptual poetry—in many ways, it’s just the opposite—because it’s labor intensive and bespoke. It seems these authors enjoy a different degree of estrangement from their original sources. Author and reader share culpability, but they also bear witness to a glimmer of a new dramatic realism that is not fatalistic, but rather weirdly happy and upbeat.”<br>
 https://bombmagazine.org/articles/building-blocks-of-noise<br>
 
-“There's this idea that juxtaposition creates a little pop in your mind to take you out of your immediate, mundane reality. When we do these crazy things with Google, a lot of times we're putting something beautiful together with something ugly, and it makes this third thing that is completely delightful and unexpected.”<br>
+“There’s this idea that juxtaposition creates a little pop in your mind to take you out of your immediate, mundane reality. When we do these crazy things with Google, a lot of times we’re putting something beautiful together with something ugly, and it makes this third thing that is completely delightful and unexpected.”<br>
 – Sharon Mesmer<br>
 https://www.pw.org/content/can_flarf_ever_be_taken_seriously?cmnt_all=1/<br>
 
