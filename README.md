@@ -56,7 +56,7 @@ https://bombmagazine.org/articles/building-blocks-of-noise<br>
 – Sharon Mesmer<br>
 https://www.pw.org/content/can_flarf_ever_be_taken_seriously?cmnt_all=1/<br>
 
-“Don’t for heaven's sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
+“Don’t for heaven’s sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
 – Ludwig Wittgenstein<br>
 
 “Walter Benjamin adopted the concept of the urban observer both as an analytical tool and as a lifestyle. Debord defines the dérive as ‘a mode of experimental behavior linked to the conditions of urban society: a technique of rapid passage through varied ambiances.’ It is an unplanned journey through a landscape, usually urban, in which participants drop their everyday relation and ‘let themselves be drawn by the attractions of the terrain and the encounters they find there’.”<br>
@@ -68,7 +68,7 @@ https://www.newyorker.com/books/page-turner/post-internet-poetry-comes-of-age<br
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
 https://twitter.com/declanlong<br>
 
-“A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space‘ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.”<br>
+“A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space’ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.”<br>
 http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
