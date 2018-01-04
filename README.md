@@ -74,9 +74,9 @@ http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
 – John Cage<br>
 
-“This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others‘ comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
+“This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others’ comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
 
-“The vocabulary at the edge of ‘hackerdom‘ is a kind of populist coded satire of elitism called l33t. As Cracker is strategically excommunicated from moral activity by Hacker, l33t becomes not only a vocabulary but a pervasive affect. ‘The‘ becomes ‘teh‘ and ‘owned‘ becomes ‘pwned‘ as mistakes fold into the language, dirty glitch becomes linguistic atom moving horizontally and playfully rather than being controlled by linguistic legitimacy.”<br>
+“The vocabulary at the edge of ‘hackerdom’ is a kind of populist coded satire of elitism called l33t. As Cracker is strategically excommunicated from moral activity by Hacker, l33t becomes not only a vocabulary but a pervasive affect. ‘The’ becomes ‘teh’ and ‘owned’ becomes ‘pwned’ as mistakes fold into the language, dirty glitch becomes linguistic atom moving horizontally and playfully rather than being controlled by linguistic legitimacy.”<br>
 – jonCates ++ jake elliott<br>
 http://gl1tch.us/4RTCR4X0RZ.html<br>
 
