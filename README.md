@@ -2,6 +2,8 @@
 
 <img src="http://static.tumblr.com/7ggoisn/ufCozxppy/img_0768_copy.jpg">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eq5gjfN5lns" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
 c.  Construct tercets out of the textual rubble<br>
