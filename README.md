@@ -68,17 +68,21 @@ https://www.newyorker.com/books/page-turner/post-internet-poetry-comes-of-age<br
 Irish art critic Declan Long states that his research “seeks to consider how attention to marginal, neglected, or ‘failed’ sites within and on the margins of cities might create productive political spaces of  uncertainty that prompt speculation on alternatives to the certainties of our present ‘reality.’”<br>
 https://twitter.com/declanlong<br>
 
-“A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional 'potential space' and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.”<br>
+“A cluster of glitches can form an outline, define an area, trace a route through uncharted space. This space is an n-dimensional ‘potential space‘ and glitches can be used to navigate this space, seeking unexpected patterns, chance juxtapositions, and unveiling subliminal content.”<br>
 http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
 – John Cage<br>
 
-“This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others' comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
+“This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others‘ comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
 
-“The vocabulary at the edge of 'hackerdom' is a kind of populist coded satire of elitism called l33t. As Cracker is strategically excommunicated from moral activity by Hacker, l33t becomes not only a vocabulary but a pervasive affect. 'The' becomes 'teh' and 'owned' becomes 'pwned' as mistakes fold into the language, dirty glitch becomes linguistic atom moving horizontally and playfully rather than being controlled by linguistic legitimacy.”<br>
+“The vocabulary at the edge of ‘hackerdom‘ is a kind of populist coded satire of elitism called l33t. As Cracker is strategically excommunicated from moral activity by Hacker, l33t becomes not only a vocabulary but a pervasive affect. ‘The‘ becomes ‘teh‘ and ‘owned‘ becomes ‘pwned‘ as mistakes fold into the language, dirty glitch becomes linguistic atom moving horizontally and playfully rather than being controlled by linguistic legitimacy.”<br>
 – jonCates ++ jake elliott<br>
 http://gl1tch.us/4RTCR4X0RZ.html<br>
+
+“When you state that ‘Jodi uses a keen understanding of computational circuitry to create software glitches.‘ the trouble is that JODI actually readily admits to having && working w/technologies in intentionally naive ways or in learning technologies as they make projects. They sumtimes enjoy the childlike use of systems or in learning/playing w/systems as their process.”<br>
+– jonCates<br>
+http://gl1tch.us/RebeccaJackson.html<br>
 
 The origins of computer hacking can be traced back to the late 1950s at Massachusetts Institute of Technology where a group of students—many of which were a part of the Tech Model Railway Club (TMRC)—began experimenting with various computing machines on campus. At this time, most computers took up entire rooms and required a group of engineers and machine operators to maintain them. The hulking IBM 704 was particularly difficult to maintain. As Steven Levy explains in his book, <em>Hackers: Heroes of the Computer Revolution</em>, student access to this computer was extremely limited:<br>
 
