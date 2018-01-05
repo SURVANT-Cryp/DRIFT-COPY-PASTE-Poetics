@@ -41,6 +41,9 @@ David Brooks Hits the Pavement: https://www.youtube.com/watch?v=L2qsbmd9Zcs<br>
 poetry is dead: long live poetry”<br>
 http://internetpoetry.co.uk/doctrine<br>
 
+“We are living in a fake world. But we find reality in this fake world.”<br>
+– Haruki Murakami<br>
+
 “The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”<br>
 – Kenneth Goldsmith<br>
 http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
