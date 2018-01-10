@@ -2,7 +2,7 @@
 
 <img src="http://static.tumblr.com/7ggoisn/ufCozxppy/img_0768_copy.jpg">
 
-<script src="https://gist.github.com/SURVANT-Cryp/98fe9702d9d4ef143421870a5e8aa717.js"></script>
+<script src="https://gist.github.com/SURVANT-Cryp/98fe9702d9d4ef143421870a5e8aa717.js">
 
 a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
