@@ -15,7 +15,9 @@ an oracle.<br></i>
 Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY.<br>
 ISBN: 978-1-62462-164-2
 
-This project is dedicated to my friend Jon Cates (http://systemsapproach.net)
+This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
+
+DIGITAL VERSION: https://static.tumblr.com/7ggoisn/bClp3fndx/dcp_poetics_i.pdf<br>
 
 <b>Notes:</b><br>
 “When you cut into the present the future leaks out.”<br>
