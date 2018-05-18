@@ -89,25 +89,5 @@ http://gl1tch.us/4RTCR4X0RZ.html<br>
 – jonCates<br>
 http://gl1tch.us/RebeccaJackson.html<br>
 
-The origins of computer hacking can be traced back to the late 1950s at Massachusetts Institute of Technology where a group of students—many of which were a part of the Tech Model Railway Club (TMRC)—began experimenting with various computing machines on campus. At this time, most computers took up entire rooms and required a group of engineers and machine operators to maintain them. The hulking IBM 704 was particularly difficult to maintain. As Steven Levy explains in his book, <em>Hackers: Heroes of the Computer Revolution</em>, student access to this computer was extremely limited:<br>
-
-<em>All these people in charge of punching cards, feeding them into readers, and pressing buttons and switches on the machine were what was commonly called a Priesthood, and those privileged enough to submit data to those most holy priests were the official acolytes. It was an almost ritualistic exchange.
-
-ACOLYTE: Oh machine, would you accept my offer of information so you may run my program and perhaps give me a computation?
-
-PRIEST (on behalf of the machine): We will try. We promise nothing.</em> (Levy, 5)
-
-An interesting custom in the Park Slope neighborhood of Brooklyn is the placing of books on front stoops and ledges for other community members to take and use. These books are not for sale or for the garbage or recycling truck; they are just there for the taking. This grassroots book sharing practice is rooted in the belief that community resources should be shared and utilized rather than wasted. The view that sharing is a moral good is central to the hacker ethic as well. Although hacker philosophy originated at the Massachusetts Institute of Technology in the 1950s-60s, the <em>hacker ethic</em> was not formally laid out until the release of <em>Hackers: Heroes of the Computer Revolution</em> in 1984. Levy believes hackers are primarily concerned with access. To the hacker, the free exchange of information is crucial to innovation. Their belief that access to knowledge should be free, decentralized, anti-bureaucratic, and anti-authoritarian stems in part from the lack of access the TMRC hackers had to the machines on campus. The TMRC hackers redefined the computer by creating groundbreaking programs (and eventually whole operating systems), but only after they challenged the bureaucratic institution tasked with regulating access to the machines at MIT. Because of their influential hacking experiments computers were no longer viewed as number-crunching war machines, but rather, expressive tools with seemingly limitless creative potential.<br>
-
-The Hacker Ethic<br>
-1. Access to computers—and anything which might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On imperative!<br>
-2. All information should be free.<br>
-3. Mistrust authority - promote decentralization.<br>
-4. Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.<br>
-5. You can create art and beauty on a computer.<br>
-6. Computers can change your life for the better. (Levy, 26-36)<br>
-
-Levy, Steven. Hackers: Heroes of the Computer Revolution (New York: Manijaime/Doubleday, 1984), 5-36.<br>
-
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
