@@ -6,8 +6,6 @@ a.  Select text fragments from social media feeds<br>
 b.  Hack on gathered words and phrases<br>
 c.  Construct tercets out of the textual rubble<br>
 
-I am interested in how aleatory operations—like the cut-up technique—can spur the development of new ideas about mediated culture and communication.
-
 <i>a text-based dérive.<br>
 a glitch art process.<br>
 an oracle.<br></i>
