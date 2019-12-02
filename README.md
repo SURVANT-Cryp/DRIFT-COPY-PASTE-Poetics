@@ -22,7 +22,7 @@ A second version of <i>DRIFT/COPY/PASTE Poetics</i> was included in The Operatin
 <b>Notes:</b><br> 
 
 “When you cut into the present the future leaks out.”<br>
-– William S. Burroughs<br>
+—William S. Burroughs<br>
 http://www.ubu.com/sound/burroughs_breakthrough.html<br>
 
 “‘Here we have a man whose job it is to gather the day’s refuse in the capital. Everything that the big city has thrown away, everything it has lost, everything it has scorned, everything it has crushed underfoot he catalogues and collects. He collates the annals of intemperance, the capharnaum of waste. He sorts things out and selects judiciously: he collects like a miser like a miser guarding a treasure, refuse which will assume the shape of useful or gratifying objects between the jaws of the goddess of Industry.’ This description is one extended metaphor for the poetic method, as Baudelaire practiced it. Ragpicker and poet: both are concerned with refuse.”<br>
@@ -45,10 +45,10 @@ poetry is dead: long live poetry”<br>
 http://internetpoetry.co.uk/doctrine<br>
 
 “We are living in a fake world. But we find reality in this fake world.”<br>
-– Haruki Murakami<br>
+—Haruki Murakami<br>
 
 “The simple act of moving information from one place to another today constitutes a significant cultural act in and of itself.”<br>
-– Kenneth Goldsmith<br>
+—Kenneth Goldsmith<br>
 http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
 
 “According to the editors of Flarf: An Anthology of Flarf (Aerial/Edge Books), this sort of poetry is more like punk rock or Dada, but distinct from these previous movements in that the content crucial to its construction is sourced from the Internet.”<br>
@@ -59,11 +59,11 @@ http://epc.buffalo.edu/authors/goldsmith/goldsmith_boring.html<br>
 https://bombmagazine.org/articles/building-blocks-of-noise<br>
 
 “There’s this idea that juxtaposition creates a little pop in your mind to take you out of your immediate, mundane reality. When we do these crazy things with Google, a lot of times we’re putting something beautiful together with something ugly, and it makes this third thing that is completely delightful and unexpected.”<br>
-– Sharon Mesmer<br>
+—Sharon Mesmer<br>
 https://www.pw.org/content/can_flarf_ever_be_taken_seriously?cmnt_all=1/<br>
 
 “Don’t for heaven’s sake, be afraid of talking nonsense! But you must pay attention to your nonsense.”<br>
-– Ludwig Wittgenstein<br>
+—Ludwig Wittgenstein<br>
 
 “Walter Benjamin adopted the concept of the urban observer both as an analytical tool and as a lifestyle. Debord defines the dérive as ‘a mode of experimental behavior linked to the conditions of urban society: a technique of rapid passage through varied ambiances.’ It is an unplanned journey through a landscape, usually urban, in which participants drop their everyday relation and ‘let themselves be drawn by the attractions of the terrain and the encounters they find there’.”<br>
 http://thebinarygraffiticlub.com/derive.html<br>
@@ -78,16 +78,16 @@ https://twitter.com/declanlong<br>
 http://sonicfield.org/2014/03/errormancy-glitch-as-divination<br>
 
 “It is not futile to do what we do. We wake up with energy and we do something. And we make, of course, failures and we make mistakes, but we sometimes get glimpses of what we might do next.”<br>
-– John Cage<br>
+—John Cage<br>
 
 “This is an attempt to crochet together a hyperknitted patchwork of multiple entry/exit ways. We are not repeating others’ comments robotically like mechanical dolls with record-playback-erase heads because we have hacked open those devices to inhabit them. We are not repeating ourselves but rather recursively transcoding a system that can swallow itself like a circuit bent Ouroboros, the infinite dragon. We are limited to a number of words and topics, finite and localized although overlapping and deterritorialized, speaking multiple expansions.”<br>
 
 “The vocabulary at the edge of ‘hackerdom’ is a kind of populist coded satire of elitism called l33t. As Cracker is strategically excommunicated from moral activity by Hacker, l33t becomes not only a vocabulary but a pervasive affect. ‘The’ becomes ‘teh’ and ‘owned’ becomes ‘pwned’ as mistakes fold into the language, dirty glitch becomes linguistic atom moving horizontally and playfully rather than being controlled by linguistic legitimacy.”<br>
-– jonCates ++ jake elliott<br>
+—jonCates ++ jake elliott<br>
 http://gl1tch.us/4RTCR4X0RZ.html<br>
 
 “When you state that ‘Jodi uses a keen understanding of computational circuitry to create software glitches.’ the trouble is that JODI actually readily admits to having && working w/technologies in intentionally naive ways or in learning technologies as they make projects. They sumtimes enjoy the childlike use of systems or in learning/playing w/systems as their process.”<br>
-– jonCates<br>
+—jonCates<br>
 http://gl1tch.us/RebeccaJackson.html<br>
 
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
