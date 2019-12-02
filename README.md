@@ -17,7 +17,7 @@ This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br
 
 Excerpt here: https://static.tumblr.com/7ggoisn/Ua0q1w8yn/dcp.pdf<br>
 
-<i>A second version of DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
+A second version of <i>DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
 
 <b>Notes:</b><br> 
 
