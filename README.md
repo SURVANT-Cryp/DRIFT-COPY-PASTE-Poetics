@@ -15,9 +15,9 @@ ISBN: 978-1-62462-164-2
 
 This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
 
-DIGITAL VERSION: https://static.tumblr.com/7ggoisn/bClp3fndx/dcp_poetics_i.pdf<br>
+Excerpt here: https://static.tumblr.com/7ggoisn/Ua0q1w8yn/dcp.pdf<br>
 
-The Operating System included part of the project in one of their anthologies: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
+The Operating System included part of the project in their Experimental-Speculative Poetics Series: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
 
 <b>Notes:</b><br>
 
