@@ -17,9 +17,9 @@ This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br
 
 Excerpt here: https://static.tumblr.com/7ggoisn/Ua0q1w8yn/dcp.pdf<br>
 
-The Operating System included part of the project in their Experimental-Speculative Poetics Series: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
+<i>A second version of DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
 
-<b>Notes:</b><br>
+<b>Notes:</b><br> 
 
 “When you cut into the present the future leaks out.”<br>
 – William S. Burroughs<br>
