@@ -13,7 +13,7 @@ an oracle.<br></i>
 Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY.<br>
 ISBN: 978-1-62462-164-2
 
-Samples:
+Samples:<br>
 https://codepen.io/patrick-quinn/pen/rNOjeVZ<br>
 https://drive.google.com/file/d/1lEror3Vey_5y9pMZI4B8YvMGrhUF-EL6/view?usp=sharing<br>
 
