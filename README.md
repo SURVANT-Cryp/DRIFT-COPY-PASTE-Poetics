@@ -13,9 +13,7 @@ an oracle.<br></i>
 Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY.<br>
 ISBN: 978-1-62462-164-2
 
-This project is dedicated to my friend Jon Cates (http://systemsapproach.net)<br>
-
-Excerpt here: https://static.tumblr.com/7ggoisn/Ua0q1w8yn/dcp.pdf<br>
+Excerpt here: https://drive.google.com/file/d/1lEror3Vey_5y9pMZI4B8YvMGrhUF-EL6/view?usp=sharing<br>
 
 An excerpt from <i>DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
 
