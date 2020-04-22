@@ -14,7 +14,7 @@ Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication S
 ISBN: 978-1-62462-164-2
 
 Samples:
-https://codepen.io/patrick-quinn/pen/rNOjeVZ
+https://codepen.io/patrick-quinn/pen/rNOjeVZ<br>
 https://drive.google.com/file/d/1lEror3Vey_5y9pMZI4B8YvMGrhUF-EL6/view?usp=sharing<br>
 
 An excerpt from <i>DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
