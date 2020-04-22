@@ -1,5 +1,12 @@
 <b>DRIFT/COPY/PASTE Poetics</b>
 
+<p class="codepen" data-height="324" data-theme-id="light" data-default-tab="css,result" data-user="patrick-quinn" data-slug-hash="rNOjeVZ" style="height: 324px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="tst1">
+  <span>See the Pen <a href="https://codepen.io/patrick-quinn/pen/rNOjeVZ">
+  tst1</a> by Patrick Quinn (<a href="https://codepen.io/patrick-quinn">@patrick-quinn</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 <img src="http://static.tumblr.com/7ggoisn/ufCozxppy/img_0768_copy.jpg">
 
 a.  Select text fragments from social media feeds<br>
@@ -13,7 +20,7 @@ an oracle.<br></i>
 Book design by Patrick Quinn + Patrick Kiley. Printed and bound at Publication Studio, Troy, NY.<br>
 ISBN: 978-1-62462-164-2
 
-Excerpt here: https://drive.google.com/file/d/1lEror3Vey_5y9pMZI4B8YvMGrhUF-EL6/view?usp=sharing<br>
+Excerpts here: https://drive.google.com/file/d/1lEror3Vey_5y9pMZI4B8YvMGrhUF-EL6/view?usp=sharing<br>
 
 An excerpt from <i>DRIFT/COPY/PASTE Poetics</i> was included in The Operating System's ongoing series, Experimental-Speculative Poetics: https://medium.com/the-operating-system/ex-spec-po-presents-drift-copy-paste-poetics-ii-by-patrick-quinn-20f3fd11d4a6<br>
 
